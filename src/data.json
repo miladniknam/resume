@@ -1,0 +1,79 @@
+{
+  "title": "Hello, I'm MiladNiknam!",
+  "subtitle": "Full Stack Dev | AI Engineer | Mobile Application Developer | Blogger",
+  "links": {
+    "github": "https://github.com/miladniknam",
+    "instagram": "https://www.instagram.com/miladniknam.ir/",
+    "linkedin": "https://www.linkedin.com/in/milad-niknam-developer/",
+    "stackoverflow": "https://stackoverflow.com/users/18794356/miladniknam",
+    "whatsapp": " https://wa.me/989227579412"
+  },
+  "sections": [
+    {
+      "title": "About me",
+      "items": [
+        {
+          "type": "p",
+          "content": "I'm a full stack developer"
+        },
+        {
+          "type": "p",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+      ]
+    },
+    {
+      "title": "My Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "icon": "devicon-python-plain",
+            "title": "Python Dev",
+            "subtitle": "senior python software developer"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "devicon-javascript-plain",
+            "title": "Javascript Dev",
+            "subtitle": "senior full stack javascript developer"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "devicon-flutter-plain",
+            "title": "Flutter Dev",
+            "subtitle": "flutter mobile application developer"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "devicon-illustrator-plain",
+            "title": "Machine Learning",
+            "subtitle": "flutter mobile application developer"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "devicon-html5-plain",
+            "title": "Html && Css",
+            "subtitle": "senior front end software developer"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "icon": "devicon-atom-original",
+            "title": "React Dev",
+            "subtitle": "senior front end React Js developer"
+          }
+        }
+      ]
+    }
+  ]
+}

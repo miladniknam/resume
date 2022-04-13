@@ -1,3 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+p {
+  line-height: 1.5;
+}
 .App {
   text-align: center;
 }
@@ -35,4 +44,54 @@
   to {
     transform: rotate(360deg);
   }
+}
+.navigation {
+  position: fixed;
+  padding: 30px;
+}
+a {
+  color: #282c34;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 700;
+}
+.social-icon {
+  margin-left: 4px;
+  margin-right: 4px;
+  width: 40px !important;
+  transition: transform 0.7s ease-in-out;
+}
+.social-icon:hover {
+  transform: rotate(360deg);
+}
+.first {
+  background-color: #f4fcd9;
+}
+.secund {
+  background-color: #c5d8a4;
+}
+.third {
+  background-color: #bb9981;
+}
+.third > div {
+  width: 100%;
+}
+.third > div > div {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.card {
+  width: 20%;
+  border: 1px solid #282c34;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px #282c34;
+}
+i {
+  font-size: 50px;
 }

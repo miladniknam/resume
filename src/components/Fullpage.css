@@ -1,0 +1,12 @@
+.fullpage {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+}
+.fullpage > div > p {
+  padding-left: 40px;
+  padding-right: 40px;
+}
